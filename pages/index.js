@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <div style={{ padding: 20 }}>
-      <h1>Toko Online Saya</h1>
+      <h1>Toko Online Sayaaaaaaaaaaaaaa</h1>
       <p>Website jualan online sederhana</p>
       <div style={{ display: "flex", gap: 20, marginTop: 20 }}>
         <div style={{ border: "1px solid #ccc", padding: 20, borderRadius: 8 }}>
