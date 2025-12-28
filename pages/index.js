@@ -36,25 +36,12 @@ export default function Home() {
   };
 
   return (
-<<<<<<< HEAD
     <div style={{ fontFamily: 'system-ui, sans-serif', maxWidth: 1200, margin: '0 auto' }}>
       {/* Navigation */}
       <nav style={{ padding: '20px 0', borderBottom: '1px solid #e5e7eb', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
         <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
           <Zap size={32} color="#3B82F6" />
           <h1 style={{ fontSize: 24, fontWeight: 'bold' }}>DigitalStore</h1>
-=======
-    <div style={{ padding: 20 }}>
-      <h1>Toko Online Gua</h1>
-      <p>Website jualan online sederhana</p>
-      <div style={{ display: "flex", gap: 20, marginTop: 20 }}>
-        <div style={{ border: "1px solid #ccc", padding: 20, borderRadius: 8 }}>
-          <h3>Produk 1</h3>
-          <p>Rp 100.000</p>
-          <button style={{ background: "blue", color: "white", padding: "10px 20px", border: "none", borderRadius: 4 }}>
-            Beli
-          </button>
->>>>>>> c94790be32032dbc0188b3b277da51ec814b4b32
         </div>
         <div style={{ display: 'flex', gap: 30 }}>
           <a href="#" style={{ fontWeight: 600 }}>Beranda</a>
